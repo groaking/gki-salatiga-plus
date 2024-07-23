@@ -10,6 +10,7 @@ The developmental project of GKI Salatiga's mobile church application
 - [ ] Replace the implementation of "GlobalSchema.context" with "LocalContext.current" to prevent memory leak
 - [ ] Replace debug toasts with "if (debug)" expressions, in which "debug" variable can be toggled manually
 - [X] Fix bottom nav not scrolling the horizontal pager issue
+- [ ] Allow the main menu's frame to move up when the user scrolls down
 - [ ] (Optional) Add scroll bar to some scrollable views
 
 ### Pre-release to-do
